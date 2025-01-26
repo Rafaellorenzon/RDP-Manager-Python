@@ -1,0 +1,14 @@
+[
+    {
+        "name": "name machine",
+        "ip": "ip machine",
+        "port": "3389",
+        "status": "Open"
+    },
+    {
+        "name": "name machine 2",
+        "ip": "ip machine 2",
+        "port": "3389",
+        "status": "Open"
+    }
+]
